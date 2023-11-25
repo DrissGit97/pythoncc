@@ -3,8 +3,8 @@ from die import Die
 
 #Create two six-sided dice (D6)
 
-die_1 = Die()
-die_2 = Die(10)
+die_1 = Die(8)
+die_2 = Die(8)
 
 #Make some rolls, and store results in a list
 results = []
